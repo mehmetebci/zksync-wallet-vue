@@ -1,5 +1,4 @@
 # [zkSync Wallet](https://wallet.zksync.io/) 
-
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/matter-labs/zksync-wallet-vue/blob/master/LICENSE-MIT) [![GitHub license](https://img.shields.io/badge/license-Apache%202-blue)](https://github.com/matter-labs/zksync-wallet-vue/blob/master/LICENSE-APACHE) [![Live on Mainnet](https://img.shields.io/badge/wallet-Live%20on%20Mainnet-blue)](https://wallet.zksync.io) [![Live on Goerli](https://img.shields.io/badge/wallet-Live%20on%20Goerli-blue)](https://zksync.io?network=goerli)
 
 
